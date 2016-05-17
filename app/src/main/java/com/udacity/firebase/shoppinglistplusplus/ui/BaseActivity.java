@@ -21,6 +21,8 @@ import com.udacity.firebase.shoppinglistplusplus.R;
 public abstract class BaseActivity extends AppCompatActivity implements
         GoogleApiClient.OnConnectionFailedListener {
 
+    //Estas bien pendejo gigio
+
     protected GoogleApiClient mGoogleApiClient;
 
     @Override
