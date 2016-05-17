@@ -23,6 +23,10 @@ public abstract class BaseActivity extends AppCompatActivity implements
 
     //Estas bien pendejo gigio
 
+
+
+
+
     protected GoogleApiClient mGoogleApiClient;
 
     @Override
