@@ -10,6 +10,6 @@ public class ShoppingListApplication extends android.app.Application {
         super.onCreate();
     }
 
-    //Chings a tu puta madre
+    //Chings a tu puta madre sdsad
 
 }
